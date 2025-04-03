@@ -1,5 +1,5 @@
 BEGIN
   -- sdsdsd
-  call func1();
+  call func2();
 end;
 /
